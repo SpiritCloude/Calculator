@@ -10,7 +10,5 @@
 
 ### 简单计算器
 
-![gui](img\1586671919357.png)
-
-
+<img src="img\1586671919357.png" alt="GUI" style="zoom:80%;" />
 
