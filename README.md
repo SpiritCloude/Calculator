@@ -1,6 +1,4 @@
-# Calculator
- 
-# Java 入门GUI [课设]
+# Java 入门 Calculator [GUI 课设]
 大二上学期课程设计模仿win10简单计算器
 ### 登录 / 注册
 
